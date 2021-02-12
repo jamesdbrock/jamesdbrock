@@ -3,18 +3,6 @@
 <table>
   <tr>
     <td>
-      <h3><em>Jupyter is not a great programming environment but it is the best REPL.</em></h3>
-      <hr/>
-      <dl>
-      <dt><a href=https://github.com/jamesdbrock/learn-you-a-haskell-notebook>learn-you-a-haskell-notebook</a></dt>
-        <dd>Jupyter adaptation of <em>Learn You a Haskell for Great Good!</em></dd>
-        <dt><a href=https://github.com/jamesdbrock/ihaskell-notebook>haskell-notebook</a></dt>
-        <dd>IHaskell image for Jupyter Docker Stacks</dd>
-        <dt><b><a href=https://github.com/jamesdbrock/testudinal-haskell>testudinal-haskell</a></b></dt>
-        <dd>Haskell programming with Turtle drawing</dd>
-      </dl>
-    </td>
-    <td>
       <h3><em>The best way to deal with the performance and correctness problems of heap memory is to not use heap memory at all. If possible, use
         only stack memory.</em></h3>
       <hr/>
@@ -23,8 +11,6 @@
         <dd>Financial Information Exchange Protocol C++ Library</dd>
       </dl>
     </td>
-  </tr>
-  <tr>
     <td>
       <h3><em>Monadic parsers are better than regular expressions for most cases. Regular expressions restrict pattern programming to only stack memory.
         Monadic parsers can use heap memory.</em></h3>
@@ -38,6 +24,8 @@
         <dd>Stream editing with Purescript Parsing</dd>
       </dl>
     </td>
+  </tr>
+  <tr>
     <td>
       <h3><em>Running JavaScript doesn't mean we have to use JSON.</em></h3>
       <hr/>
@@ -48,6 +36,18 @@
         <dd>ArrayBuffer monadic parser for PureScript</dd>
         <dt><a href=https://github.com/xc-jp/purescript-protobuf>purescript-protobuf</a></dt>
         <dd>Google Protocol Buffers for PureScript</dd>
+      </dl>
+    </td>
+    <td>
+      <h3><em>Jupyter is not a great programming environment but it is the best REPL.</em></h3>
+      <hr/>
+      <dl>
+      <dt><a href=https://github.com/jamesdbrock/learn-you-a-haskell-notebook>learn-you-a-haskell-notebook</a></dt>
+        <dd>Jupyter adaptation of <em>Learn You a Haskell for Great Good!</em></dd>
+        <dt><a href=https://github.com/jamesdbrock/ihaskell-notebook>haskell-notebook</a></dt>
+        <dd>IHaskell image for Jupyter Docker Stacks</dd>
+        <dt><b><a href=https://github.com/jamesdbrock/testudinal-haskell>testudinal-haskell</a></b></dt>
+        <dd>Haskell programming with Turtle drawing</dd>
       </dl>
     </td>
   </tr>
