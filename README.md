@@ -16,7 +16,7 @@
       </dl>
     </td>
     <td>
-      <h3><em>The best way to deal with the problems of heap memory is to not use heap memory at all. If possible, use
+      <h3><em>The best way to deal with the problems of heap memory is to not use heap memory. If possible, use
         only stack memory.</em></h3>
       <hr/>
       <dl>
