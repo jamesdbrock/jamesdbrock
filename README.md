@@ -29,7 +29,7 @@ My open source work has a few themes:
       </ul>
     </td>
     <td>
-      <em>Running JavaScript doesn't mean we have to use JSON. PureScript makes binary serialization easy.</em>
+      <em>Running JavaScript doesn't mean we have to use JSON.</em>
       <ul>
         <li><b><a href=https://github.com/jamesdbrock/purescript-arraybuffer-builder>purescript-arraybuffer-builder</a></b> ArrayBuffer monadic builder for Purescript</li>
         <li><b><a href=https://github.com/jamesdbrock/purescript-parsing-dataview>purescript-parsing-dataview</a></b> ArrayBuffer monadic parser for PureScript</li>
