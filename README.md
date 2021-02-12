@@ -1,9 +1,9 @@
-My open source work has a few themes:
+<h3>My open source work has a few themes:</h3>
 
 <table>
   <tr>
     <td>
-      <h4><em>Jupyter is not a great programming environment but it is the best REPL.</em></h4>
+      <h3><em>Jupyter is not a great programming environment but it is the best REPL.</em></h3>
       <hr/>
       <dl>
       <dt><a href=https://github.com/jamesdbrock/learn-you-a-haskell-notebook>learn-you-a-haskell-notebook</a></dt>
@@ -15,8 +15,8 @@ My open source work has a few themes:
       </dl>
     </td>
     <td>
-      <h4><em>The best way to deal with the performance and correctness problems of heap memory is to not use heap memory at all. If possible, use
-        only stack memory.</em></h4>
+      <h3><em>The best way to deal with the performance and correctness problems of heap memory is to not use heap memory at all. If possible, use
+        only stack memory.</em></h3>
       <hr/>
       <dl>
         <dt><a href=https://github.com/jamesdbrock/hffix>hffix</a></dt>
@@ -26,8 +26,8 @@ My open source work has a few themes:
   </tr>
   <tr>
     <td>
-      <h4><em>Monadic parsers are better than regular expressions for most cases. Regular expressions restrict pattern programming to only stack memory.
-        Monadic parsers can use heap memory.</em></h4>
+      <h3><em>Monadic parsers are better than regular expressions for most cases. Regular expressions restrict pattern programming to only stack memory.
+        Monadic parsers can use heap memory.</em></h3>
       <hr/>
       <dl>
         <dt><a href=https://github.com/jamesdbrock/replace-megaparsec>replace-megaparsec</a></dt>
@@ -39,7 +39,7 @@ My open source work has a few themes:
       </dl>
     </td>
     <td>
-      <h4><em>Running JavaScript doesn't mean we have to use JSON.</em></h4>
+      <h3><em>Running JavaScript doesn't mean we have to use JSON.</em></h3>
       <hr/>
       <dl>
         <dt><a href=https://github.com/jamesdbrock/purescript-arraybuffer-builder>purescript-arraybuffer-builder</a></dt>
