@@ -3,15 +3,6 @@
 <table>
   <tr>
     <td>
-      <h3><em>The best way to deal with the performance and correctness problems of heap memory is to not use heap memory at all. If possible, use
-        only stack memory.</em></h3>
-      <hr/>
-      <dl>
-        <dt><a href=https://github.com/jamesdbrock/hffix>hffix</a></dt>
-        <dd>Financial Information Exchange Protocol C++ Library</dd>
-      </dl>
-    </td>
-    <td>
       <h3><em>Monadic parsers are better than regular expressions for most cases. Regular expressions restrict pattern programming to only stack memory.
         Monadic parsers can use heap memory.</em></h3>
       <hr/>
@@ -22,6 +13,15 @@
         <dd>Stream editing with Haskell Attoparsec</dd>
         <dt><a href=https://github.com/jamesdbrock/purescript-parsing-string-replace>purescript-parsing-string-replace</a></dt>
         <dd>Stream editing with Purescript Parsing</dd>
+      </dl>
+    </td>
+    <td>
+      <h3><em>The best way to deal with the performance and correctness problems of heap memory is to not use heap memory at all. If possible, use
+        only stack memory.</em></h3>
+      <hr/>
+      <dl>
+        <dt><a href=https://github.com/jamesdbrock/hffix>hffix</a></dt>
+        <dd>Financial Information Exchange Protocol C++ Library</dd>
       </dl>
     </td>
   </tr>
