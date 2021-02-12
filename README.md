@@ -12,7 +12,7 @@
         <dt>✀ <a href=https://github.com/jamesdbrock/replace-attoparsec>replace-attoparsec</a></dt>
         <dd>Stream editing with Haskell Attoparsec</dd>
         <dt>✀ <a href=https://github.com/jamesdbrock/purescript-parsing-string-replace>purescript-parsing-string-replace</a></dt>
-        <dd>Stream editing with PureScript Parsing</dd>
+        <dd>Stream editing with PureScript Parsing (WIP)</dd>
       </dl>
     </td>
     <td>
@@ -47,7 +47,7 @@
         <dt>𝝺 <a href=https://github.com/jamesdbrock/ihaskell-notebook>haskell-notebook</a></dt>
         <dd>IHaskell image for Jupyter Docker Stacks</dd>
         <dt>𝝺 <b><a href=https://github.com/jamesdbrock/testudinal-haskell>testudinal-haskell</a></b></dt>
-        <dd>Haskell programming with Turtle drawing</dd>
+        <dd>Haskell programming with Turtle drawing (WIP)</dd>
       </dl>
     </td>
   </tr>
