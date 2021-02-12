@@ -1,4 +1,4 @@
-<h3>My open source work has a four themes:</h3>
+<h3>My open source work has four themes:</h3>
 
 <table>
   <tr>
