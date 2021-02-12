@@ -4,37 +4,51 @@ My open source work has a few themes:
   <tr>
     <td>
       <h4><em>Jupyter is not a great programming environment but it is the best REPL.</em></h4>
-      <ul>
-      <li><b><a href=https://github.com/jamesdbrock/learn-you-a-haskell-notebook>learn-you-a-haskell-notebook</a></b> <br/>Jupyter adaptation of <em>Learn You a Haskell for Great Good!</em></li>
-      <li><b><a href=https://github.com/jamesdbrock/ihaskell-notebook>haskell-notebook</a></b> <br/>IHaskell image for Jupyter Docker Stacks</li>
-      <li><b><a href=https://github.com/jamesdbrock/testudinal-haskell>testudinal-haskell</a></b> <br/>Haskell programming with Turtle drawing</li>
-      </ul>
+      <hr/>
+      <dl>
+      <dt><a href=https://github.com/jamesdbrock/learn-you-a-haskell-notebook>learn-you-a-haskell-notebook</a></dt>
+        <dd>Jupyter adaptation of <em>Learn You a Haskell for Great Good!</em></dd>
+        <dt><a href=https://github.com/jamesdbrock/ihaskell-notebook>haskell-notebook</a></dt>
+        <dd>IHaskell image for Jupyter Docker Stacks</dd>
+        <dt><b><a href=https://github.com/jamesdbrock/testudinal-haskell>testudinal-haskell</a></b></dt>
+        <dd>Haskell programming with Turtle drawing</dd>
+      </dl>
     </td>
     <td>
       <h4><em>The best way to deal with the performance and correctness problems of heap memory is to not use heap memory at all. If possible, use
         only stack memory.</em></h4>
-      <ul>
-        <li><b><a href=https://github.com/jamesdbrock/hffix>hffix</a></b> <br/>Financial Information Exchange Protocol C++ Library</li>
-      <ul>
+      <hr/>
+      <dl>
+        <dt><a href=https://github.com/jamesdbrock/hffix>hffix</a></dt>
+        <dd>Financial Information Exchange Protocol C++ Library</dd>
+      </dl>
     </td>
   </tr>
   <tr>
     <td>
       <h4><em>Monadic parsers are better than regular expressions for most cases. Regular expressions restrict pattern programming to only stack memory.
         Monadic parsers can use heap memory.</em></h4>
-      <ul>
-        <li><b><a href=https://github.com/jamesdbrock/replace-megaparsec>replace-megaparsec</a></b> <br/>Stream editing with Haskell Megaparsec</li>
-        <li><b><a href=https://github.com/jamesdbrock/replace-attoparsec>replace-attoparsec</a></b> <br/>Stream editing with Haskell Attoparsec</li>
-        <li><b><a href=https://github.com/jamesdbrock/purescript-parsing-string-replace>purescript-parsing-string-replace</a></b> <br/>Stream editing with Purescript Parsing</li>
-      </ul>
+      <hr/>
+      <dl>
+        <dt><a href=https://github.com/jamesdbrock/replace-megaparsec>replace-megaparsec</a></dt>
+        <dd>Stream editing with Haskell Megaparsec</dd>
+        <dt><a href=https://github.com/jamesdbrock/replace-attoparsec>replace-attoparsec</a></dt>
+        <dd>Stream editing with Haskell Attoparsec</dd>
+        <dt><a href=https://github.com/jamesdbrock/purescript-parsing-string-replace>purescript-parsing-string-replace</a></dt>
+        <dd>Stream editing with Purescript Parsing</dd>
+      </dl>
     </td>
     <td>
       <h4><em>Running JavaScript doesn't mean we have to use JSON.</em></h4>
-      <ul>
-        <li><b><a href=https://github.com/jamesdbrock/purescript-arraybuffer-builder>purescript-arraybuffer-builder</a></b> <br/>ArrayBuffer monadic builder for Purescript</li>
-        <li><b><a href=https://github.com/jamesdbrock/purescript-parsing-dataview>purescript-parsing-dataview</a></b> <br/>ArrayBuffer monadic parser for PureScript</li>
-        <li><b><a href=https://github.com/xc-jp/purescript-protobuf>purescript-protobuf</a></b> <br/>Google Protocol Buffers for PureScript</li>
-      </ul>
+      <hr/>
+      <dl>
+        <dt><a href=https://github.com/jamesdbrock/purescript-arraybuffer-builder>purescript-arraybuffer-builder</a></dt>
+        <dd>ArrayBuffer monadic builder for Purescript</dd>
+        <dt><a href=https://github.com/jamesdbrock/purescript-parsing-dataview>purescript-parsing-dataview</a></dt>
+        <dd>ArrayBuffer monadic parser for PureScript</dd>
+        <dt><a href=https://github.com/xc-jp/purescript-protobuf>purescript-protobuf</a></dt>
+        <dd>Google Protocol Buffers for PureScript</dd>
+      </dl>
     </td>
   </tr>
 </table>
