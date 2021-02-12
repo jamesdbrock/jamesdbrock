@@ -12,7 +12,7 @@
         <dt>✀ <a href=https://github.com/jamesdbrock/replace-attoparsec>replace-attoparsec</a></dt>
         <dd>Stream editing with Haskell Attoparsec</dd>
         <dt>✀ <a href=https://github.com/jamesdbrock/purescript-parsing-string-replace>purescript-parsing-string-replace</a></dt>
-        <dd>Stream editing with Purescript Parsing</dd>
+        <dd>Stream editing with PureScript Parsing</dd>
       </dl>
     </td>
     <td>
@@ -21,7 +21,7 @@
       <hr/>
       <dl>
         <dt>💲 <a href=https://github.com/jamesdbrock/hffix>hffix</a></dt>
-        <dd>Financial Information Exchange Protocol C++ Library</dd>
+        <dd>Financial Information Exchange protocol C++ library</dd>
       </dl>
     </td>
   </tr>
