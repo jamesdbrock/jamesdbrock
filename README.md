@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <h3><em>Monadic parsers are better than regular expressions for most cases. Regular expressions restrict pattern programming to only stack memory.
+      <h3><em>Monadic parsers are better than regex for most cases. Regex restrict pattern programming to only stack memory.
         Monadic parsers can use heap memory.</em></h3>
       <hr/>
       <dl>
