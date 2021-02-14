@@ -11,8 +11,8 @@
         <dd>Stream editing with Haskell Megaparsec</dd>
         <dt>✀ <a href=https://github.com/jamesdbrock/replace-attoparsec>replace-attoparsec</a></dt>
         <dd>Stream editing with Haskell Attoparsec</dd>
-        <dt>✀ <a href=https://github.com/jamesdbrock/purescript-parsing-string-replace>purescript-parsing-string-replace</a></dt>
-        <dd>Stream editing with PureScript Parsing (WIP)</dd>
+        <dt>✀ <a href=https://github.com/jamesdbrock/purescript-parsing-replace>purescript-parsing-replace</a></dt>
+        <dd>Stream editing with PureScript Parsing</dd>
       </dl>
     </td>
     <td>
