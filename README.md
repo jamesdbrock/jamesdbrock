@@ -3,8 +3,7 @@
 <table>
   <tr>
     <td>
-      <h3><em>Monadic parsers are better than regex for most pattern matching situations. Regex can only use stack memory.
-        Monadic parsers can use heap memory.</em></h3>
+      <h3><em>Monadic parsers are better than regex for most pattern-matching situations.</em></h3>
       <hr/>
       <dl>
         <dt>✀ <a href=https://github.com/jamesdbrock/replace-megaparsec>replace-megaparsec</a></dt>
@@ -16,8 +15,7 @@
       </dl>
     </td>
     <td>
-      <h3><em>The best way to deal with the problems of heap memory is to not use heap memory. If possible, use
-        only stack memory.</em></h3>
+      <h3><em>For best performance, use only stack memory.</em></h3>
       <hr/>
       <dl>
         <dt>💲 <a href=https://github.com/jamesdbrock/hffix>hffix</a></dt>
