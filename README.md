@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <h3><em>Monadic parsers are better than regex for most pattern-matching situations.</em></h3>
+      <h3><em>Prefer monadic parsers to regex.</em></h3>
       <hr/>
       <dl>
         <dt>✀ <a href=https://github.com/jamesdbrock/replace-megaparsec>replace-megaparsec</a></dt>
@@ -15,7 +15,7 @@
       </dl>
     </td>
     <td>
-      <h3><em>For best performance, use only stack memory.</em></h3>
+      <h3><em>Prefer stack allocation to heap allocation.</em></h3>
       <hr/>
       <dl>
         <dt>💲 <a href=https://github.com/jamesdbrock/hffix>hffix</a></dt>
@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>
-      <h3><em>Running JavaScript doesn't mean we have to use JSON.</em></h3>
+      <h3><em>Prefer Protocol Buffers to JSON.</em></h3>
       <hr/>
       <dl>
         <dt>🎁 <a href=https://github.com/jamesdbrock/purescript-arraybuffer-builder>purescript-arraybuffer-builder</a></dt>
@@ -37,7 +37,7 @@
       </dl>
     </td>
     <td>
-      <h3><em>Jupyter is not a great programming environment but it is the best REPL.</em></h3>
+      <h3><em>Prefer Jupyter to a commandline REPL.</em></h3>
       <hr/>
       <dl>
         <dt>𝝺 <a href=https://github.com/jamesdbrock/learn-you-a-haskell-notebook>learn-you-a-haskell-notebook</a></dt>
