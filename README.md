@@ -34,6 +34,8 @@
         <dd>ArrayBuffer monadic parser for PureScript</dd>
         <dt>💝 <a href=https://github.com/xc-jp/purescript-protobuf>purescript-protobuf</a></dt>
         <dd>Google Protocol Buffers for PureScript</dd>
+        <dt>🎁 <a href=https://github.com/jamesdbrock/protobuf-decoder-explainer>protobuf-decoder-explainer</a></dt>
+        <dd>Web app for explaining the structure of binary protobuf</dd>
       </dl>
     </td>
     <td>
