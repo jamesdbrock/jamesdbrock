@@ -44,7 +44,7 @@
       <dl>
         <dt>𝝺 <a href=https://github.com/jamesdbrock/learn-you-a-haskell-notebook>learn-you-a-haskell-notebook</a></dt>
         <dd>Jupyter adaptation of <em>Learn You a Haskell for Great Good!</em></dd>
-        <dt>𝝺 <a href=https://github.com/jamesdbrock/ihaskell-notebook>haskell-notebook</a></dt>
+        <dt>𝝺 <a href=https://github.com/jamesdbrock/ihaskell-notebook>ihaskell-notebook</a></dt>
         <dd>IHaskell image for Jupyter Docker Stacks</dd>
         <dt>𝝺 <b><a href=https://github.com/jamesdbrock/testudinal-haskell>testudinal-haskell</a></b></dt>
         <dd>Haskell programming with Turtle drawing (WIP)</dd>
