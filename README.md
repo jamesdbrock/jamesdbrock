@@ -47,7 +47,7 @@
         <dt>𝝺 <a href=https://github.com/jamesdbrock/ihaskell-notebook>ihaskell-notebook</a></dt>
         <dd>IHaskell image for Jupyter Docker Stacks</dd>
         <dt>𝝺 <b><a href=https://github.com/jamesdbrock/testudinal-haskell>testudinal-haskell</a></b></dt>
-        <dd>Haskell programming with Turtle drawing (WIP)</dd>
+        <dd>Haskell programming with Turtle drawing in a VS Code notebook</dd>
       </dl>
     </td>
   </tr>
