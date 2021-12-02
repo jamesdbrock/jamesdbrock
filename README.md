@@ -28,12 +28,12 @@
       <h3><em>Prefer Protocol Buffers to JSON.</em></h3>
       <hr/>
       <dl>
+        <dt>💝 <a href=https://github.com/xc-jp/purescript-protobuf>purescript-protobuf</a></dt>
+        <dd>Google Protocol Buffers for PureScript</dd>
         <dt>🎁 <a href=https://github.com/jamesdbrock/purescript-arraybuffer-builder>purescript-arraybuffer-builder</a></dt>
         <dd>ArrayBuffer monadic builder for Purescript</dd>
         <dt>🎁 <a href=https://github.com/jamesdbrock/purescript-parsing-dataview>purescript-parsing-dataview</a></dt>
         <dd>ArrayBuffer monadic parser for PureScript</dd>
-        <dt>💝 <a href=https://github.com/xc-jp/purescript-protobuf>purescript-protobuf</a></dt>
-        <dd>Google Protocol Buffers for PureScript</dd>
         <dt>🎁 <a href=https://github.com/jamesdbrock/protobuf-decoder-explainer>protobuf-decoder-explainer</a></dt>
         <dd>Web app for explaining the structure of binary protobuf</dd>
       </dl>
