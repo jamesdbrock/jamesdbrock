@@ -31,7 +31,7 @@
         <dt>💝 <a href=https://github.com/xc-jp/purescript-protobuf>purescript-protobuf</a></dt>
         <dd>Google Protocol Buffers for PureScript</dd>
         <dt>🎁 <a href=https://github.com/jamesdbrock/purescript-arraybuffer-builder>purescript-arraybuffer-builder</a></dt>
-        <dd>ArrayBuffer monadic builder for Purescript</dd>
+        <dd>ArrayBuffer monadic builder for PureScript</dd>
         <dt>🎁 <a href=https://github.com/jamesdbrock/purescript-parsing-dataview>purescript-parsing-dataview</a></dt>
         <dd>ArrayBuffer monadic parser for PureScript</dd>
         <dt>🎁 <a href=https://github.com/jamesdbrock/protobuf-decoder-explainer>protobuf-decoder-explainer</a></dt>
