@@ -12,6 +12,8 @@
         <dd>Stream editing with Haskell Attoparsec</dd>
         <dt>✀ <a href=https://github.com/jamesdbrock/purescript-parsing-replace>purescript-parsing-replace</a></dt>
         <dd>Stream editing with PureScript Parsing</dd>
+        <dt>✀ <a href=https://github.com/jamesdbrock/purescript-parsing>purescript-parsing</a></dt>
+        <dd>Monadic parser combinator library based on Haskell's Parsec.</dd>
       </dl>
     </td>
     <td>
