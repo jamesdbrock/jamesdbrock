@@ -13,7 +13,9 @@
         <dt>✀ <a href=https://github.com/jamesdbrock/purescript-parsing-replace>purescript-parsing-replace</a></dt>
         <dd>Stream editing with PureScript Parsing</dd>
         <dt>✀ <a href=https://github.com/purescript-contrib/purescript-parsing>purescript-parsing</a></dt>
-        <dd>Monadic parser combinator library based on Haskell's Parsec.</dd>
+        <dd>Monadic parser combinator library based on Haskell's Parsec</dd>
+        <dt>✀ <a href=https://github.com/jamesdbrock/monadic-parsers-at-input-boundary>Monadic Parsers at the Input Boundary</a></dt>
+        <dd>Talk delivered at PureConf 2022</dd>
       </dl>
     </td>
     <td>
