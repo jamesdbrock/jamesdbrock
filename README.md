@@ -1,5 +1,5 @@
 
-<h2>James Brock’s Free Software Portfolio</h2>
+<h2>Portfolio</h2>
 <table>
   <tr>
     <td>△ <a href="https://github.com/pyedifice/pyedifice">pyedifice</a></td>
