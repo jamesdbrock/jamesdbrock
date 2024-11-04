@@ -1,5 +1,5 @@
 
-<h2>Portfolio</h2>
+<h2>James Brock’s Free Software Portfolio</h2>
 <table>
   <tr>
     <td>△ <a href="https://github.com/pyedifice/pyedifice">pyedifice</a></td>
@@ -72,14 +72,7 @@
     <td>IHaskell image for Jupyter Docker Stacks</td>
   </tr>
   <tr>
-    <td>𝝺 <a href=https://github.com/jamesdbrock/testudinal-haskell>testudinal-haskell</a></td>
-    <td></td>
-    <td>Haskell programming with Turtle drawing in a VS Code notebook</td>
-  </tr>
-  <tr>
     <td>𝝺 <a href="https://github.com/haskell-github-trust">Haskell Github Trust</a></td>
     <td></td>
     <td>GitHub organization for community ownership of Haskell packages</td>
 </table>
-
-
