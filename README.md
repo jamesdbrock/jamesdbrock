@@ -1,74 +1,85 @@
-<h3>My open source work has four themes:</h3>
 
+<h2>James Brock’s Free Software Portfolio</h2>
 <table>
   <tr>
+    <td>△ <a href="https://github.com/pyedifice/pyedifice">pyedifice</a></td>
+    <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyedifice/pyedifice?style=social">
+</td>
+    <td>Declarative GUI framework for Python and Qt</td>
+  <tr>
+    <td>✀ <a href=https://github.com/haskell-github-trust/replace-megaparsec>replace-megaparsec</a></td>
+    <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamesdbrock/replace-megaparsec?style=social">
+</td>
+    <td>Stream editing with Haskell Megaparsec</td>
+  </tr>
+  <tr>
+    <td>✀ <a href=https://github.com/haskell-github-trust/replace-attoparsec>replace-attoparsec</a></td>
+    <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamesdbrock/replace-attoparsec?style=social">
+</td>
+    <td>Stream editing with Haskell Attoparsec</td>
+  </tr>
+  <tr>
+    <td>✀ <a href=https://github.com/purescript-contrib/purescript-parsing>purescript-parsing</a></td>
+    <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/purescript-contrib/purescript-parsing?style=social">
+</td>
+    <td>PureScript monadic parser combinator library based on Haskell’s Parsec</td>
+  </tr>
+  <tr>
+    <td>✀ <a href=https://github.com/jamesdbrock/monadic-parsers-at-input-boundary>Monadic Parsers at the Input Boundary</a></td>
+    <td></td>
     <td>
-      <h3><em>Prefer monadic parsers to regex.</em></h3>
-      <hr/>
-      <dl>
-        <dt>✀ <a href=https://github.com/jamesdbrock/replace-megaparsec>replace-megaparsec</a></dt>
-        <dd>Stream editing with Haskell Megaparsec</dd>
-        <dt>✀ <a href=https://github.com/jamesdbrock/replace-attoparsec>replace-attoparsec</a></dt>
-        <dd>Stream editing with Haskell Attoparsec</dd>
-        <dt>✀ <a href=https://github.com/jamesdbrock/purescript-parsing-replace>purescript-parsing-replace</a></dt>
-        <dd>Stream editing with PureScript Parsing</dd>
-        <dt>✀ <a href=https://github.com/purescript-contrib/purescript-parsing>purescript-parsing</a></dt>
-        <dd>Monadic parser combinator library based on Haskell's Parsec</dd>
-        <dt>✀ <a href=https://github.com/jamesdbrock/monadic-parsers-at-input-boundary>Monadic Parsers at the Input Boundary</a></dt>
-        <dd>Talk delivered at PureConf 2022</dd>
-      </dl>
-    </td>
-    <td>
-      <h3><em>Prefer stack allocation to heap allocation.</em></h3>
-      <hr/>
-      <dl>
-        <dt>💲 <a href=https://github.com/jamesdbrock/hffix>hffix</a></dt>
-        <dd>Financial Information Exchange protocol C++ library</dd>
-      </dl>
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=LLkbzt4ms6M" target="_blank">
+ <img src="http://img.youtube.com/vi/LLkbzt4ms6M/hqdefault.jpg" alt="Watch the video" width="200" height="150" border="10" />
+</a>
     </td>
   </tr>
   <tr>
-    <td>
-      <h3><em>Prefer Protocol Buffers to JSON.</em></h3>
-      <hr/>
-      <dl>
-        <dt>💝 <a href=https://github.com/xc-jp/purescript-protobuf>purescript-protobuf</a></dt>
-        <dd>Google Protocol Buffers for PureScript</dd>
-        <dt>🎁 <a href=https://github.com/jamesdbrock/purescript-arraybuffer-builder>purescript-arraybuffer-builder</a></dt>
-        <dd>ArrayBuffer monadic builder for PureScript</dd>
-        <dt>🎁 <a href=https://github.com/jamesdbrock/purescript-parsing-dataview>purescript-parsing-dataview</a></dt>
-        <dd>ArrayBuffer monadic parser for PureScript</dd>
-        <dt>🎁 <a href=https://github.com/jamesdbrock/protobuf-decoder-explainer>protobuf-decoder-explainer</a></dt>
-        <dd>Web app for explaining the structure of binary protobuf</dd>
-      </dl>
-    </td>
-    <td>
-      <h3><em>Prefer Jupyter to a commandline REPL.</em></h3>
-      <hr/>
-      <dl>
-        <dt>𝝺 <a href=https://github.com/jamesdbrock/learn-you-a-haskell-notebook>learn-you-a-haskell-notebook</a></dt>
-        <dd>Jupyter adaptation of <em>Learn You a Haskell for Great Good!</em></dd>
-        <dt>𝝺 <a href=https://github.com/jamesdbrock/ihaskell-notebook>ihaskell-notebook</a></dt>
-        <dd>IHaskell image for Jupyter Docker Stacks</dd>
-        <dt>𝝺 <b><a href=https://github.com/jamesdbrock/testudinal-haskell>testudinal-haskell</a></b></dt>
-        <dd>Haskell programming with Turtle drawing in a VS Code notebook</dd>
-      </dl>
-    </td>
+    <td>💲 <a href=https://github.com/jamesdbrock/hffix>hffix</a></td>
+    <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamesdbrock/hffix?style=social">
+</td>
+    <td>Financial Information Exchange protocol C++ library</td>
   </tr>
+  <tr>
+    <td>💝 <a href=https://github.com/rowtype-yoga/purescript-protobuf>purescript-protobuf</a></td>
+    <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rowtype-yoga/purescript-protobuf?style=social">
+</td>
+    <td>Google Protocol Buffers for PureScript</td>
+  </tr>
+  <tr>
+    <td>🎁 <a href=https://github.com/rowtype-yoga/purescript-arraybuffer-builder>purescript-arraybuffer-builder</a></td>
+    <td></td>
+    <td>ArrayBuffer monadic builder for PureScript</td>
+  </tr>
+  <tr>
+    <td>🎁 <a href=https://github.com/rowtype-yoga/purescript-parsing-dataview>purescript-parsing-dataview</a></td>
+    <td></td>
+    <td>ArrayBuffer monadic parser for PureScript</td>
+  </tr>
+  <tr>
+    <td>🎁 <a href=https://github.com/jamesdbrock/protobuf-decoder-explainer>protobuf-decoder-explainer</a></td>
+    <td></td>
+    <td>Web app for explaining the structure of binary protobuf</td>
+  </tr>
+  <tr>
+    <td>𝝺 <a href=https://github.com/jamesdbrock/learn-you-a-haskell-notebook>learn-you-a-haskell-notebook</a></td>
+    <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jamesdbrock/learn-you-a-haskell-notebook?style=social">
+</td>
+    <td>Jupyter adaptation of <em>Learn You a Haskell for Great Good!</em></td>
+  </tr>
+  <tr>
+    <td>𝝺 <a href=https://github.com/jamesdbrock/ihaskell-notebook>ihaskell-notebook</a></td>
+    <td></td>
+    <td>IHaskell image for Jupyter Docker Stacks</td>
+  </tr>
+  <tr>
+    <td>𝝺 <a href=https://github.com/jamesdbrock/testudinal-haskell>testudinal-haskell</a></td>
+    <td></td>
+    <td>Haskell programming with Turtle drawing in a VS Code notebook</td>
+  </tr>
+  <tr>
+    <td>𝝺 <a href="https://github.com/haskell-github-trust">Haskell Github Trust</a></td>
+    <td></td>
+    <td>GitHub organization for community ownership of Haskell packages</td>
 </table>
-      
 
-<!--
-**jamesdbrock/jamesdbrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
